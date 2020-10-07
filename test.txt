@@ -1,0 +1,5 @@
+Valor a=2
+Valor b=4
+Valor c=a+b;
+Que imprime c?
+Respuesta:
